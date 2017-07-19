@@ -1,0 +1,23 @@
+//Jimmy
+  Player
+    Movement
+      -Dash/Air Dash
+      -Jump
+      -Wall Movement
+    Combat
+      -Hard Punch
+        -Uppercut
+          -Grounded
+          -Aerial
+        -Raptor Boost
+          -Aerial
+          -Grounded
+        -Jabs
+          -Aerial
+          -Grounded
+          -Jab-lock  
+//Jack
+
+
+
+//Dan
